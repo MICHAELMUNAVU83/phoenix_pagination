@@ -14,7 +14,7 @@ Pagination in Phoenix Live View using Scrivener
 
 This is a simple app that demonstrates how to implement pagination in Phoenix Live View using Scrivener.
 It is a pre-requisite for the article i wrote on Medium
-[Phoenix Live View Ecommerce Add To cart Funstionality](https://medium.com/@michaelmunavu83/uploading-images-in-phoenix-live-view-459b481a8385)
+[Pagination in Phoenix Live View using Scrivener](https://medium.com/@michaelmunavu83/uploading-images-in-phoenix-live-view-459b481a8385)
 
 ## Screenshots
 
