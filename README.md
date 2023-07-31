@@ -18,9 +18,10 @@ It is a pre-requisite for the article i wrote on Medium
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2023-06-12 at 10 19 24" src="https://github.com/MICHAELMUNAVU83/liveview_ecommerce/assets/86654131/32a16081-2968-4550-9a03-5d05f24d1891">
+<img width="1157" alt="Screenshot 2023-07-31 at 11 01 16" src="https://github.com/MICHAELMUNAVU83/phoenix_pagination/assets/86654131/0c60ee7a-dab8-4842-98e7-e949fe25bb08">
 
 
+<img width="1157" alt="Screenshot 2023-07-31 at 11 01 19" src="https://github.com/MICHAELMUNAVU83/phoenix_pagination/assets/86654131/50776183-b072-4707-8d08-02f188a0173b">
 
 
 
